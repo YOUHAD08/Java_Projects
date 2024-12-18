@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class App {
+public class  Inventory_Management_System {
     static String[] Id = new String[100];
     static String[] Name = new String[100];
     static int[] Qty = new int[100];
